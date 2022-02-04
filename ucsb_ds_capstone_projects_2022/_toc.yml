@@ -25,10 +25,10 @@ parts:
     - file: projects/appfolio/update1
   - file: projects/calcofi/description
     sections:
-    - file: projects/calcofi/update1
+    - file: projects/calcofi/current work
   - file: projects/carpedata/description
     sections:
-    - file: projects/carpedata/update1
+    - file: projects/carpedata/
   - file: projects/ccber/description
     sections:
     - file: projects/ccber/update1
